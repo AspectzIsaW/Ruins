@@ -2,7 +2,7 @@
 -- Version: 3.2
 
 -- Instances:
-loadstring(game:HttpGet("http://23.28.223.4/ruinshub/ac.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AspectzIsaW/Ruins/main/ac"))()
 -- Gui to Lua
 -- Version: 3.2
 
